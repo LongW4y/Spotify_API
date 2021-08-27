@@ -35,5 +35,7 @@ During this period you can listen to any songs, and after a couple of minutes af
 Hopefully, you will find this program useful in any way :)
 
 If you would like to contact me, feel free to do so at: 
+
 [My LinkedIn Page](https://www.linkedin.com/in/cezary-stanis%C5%82awski-29b5781b5/)
+
 or write an email to my private inbox: longwaytoglory@gmail.com
